@@ -43,6 +43,13 @@ public class TeamTest {
         assert(!team.equals(other));
     }
 
+    @Test
+    public void equals_returns_false_for_different_members() {
+        Team other = new Team("test-team");
+        other.addMember("Alice");
+        assert(!team.equals(other));
+    }
+
     @Test 
     public void hashCode_expected_result() {
         Team t = new Team();
