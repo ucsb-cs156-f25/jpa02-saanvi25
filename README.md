@@ -2,13 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f25/jpa02-saanvi25
 
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
-
-
-https://jpa02-saanvi25.dokku-10.cs.ucsb.edu
+Dokku: https://jpa02-saanvi25.dokku-10.cs.ucsb.edu
 
 
 # About this repo
