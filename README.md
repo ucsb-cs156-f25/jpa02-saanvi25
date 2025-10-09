@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f25/jpa02-saanvi25
 
-Dokku: https://jpa02-saanvi25.dokku-10.cs.ucsb.edu
+Deployed at: https://jpa02-saanvi25.dokku-10.cs.ucsb.edu
 
 
 # About this repo
